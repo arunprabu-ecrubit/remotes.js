@@ -17,7 +17,7 @@
     "component-consoler": "^2.0.0",
     "graceful-fs": "^2.0.2",
     "semver": "^2.2.1",
-    "cogent": "github:timaschew/cogent#fix-redirects",
+    "cogent": "~0.4.0",
     "co": "^3"
   },
   "devDependencies": {
